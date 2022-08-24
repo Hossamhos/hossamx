@@ -1,7 +1,7 @@
 {
-    "name": "VAMBIR/MUSIC",
+    "name": "𝒉𝒐𝒔𝒔𝒂𝒎/𝒎𝒖𝒔𝒊𝒄",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/e70a5c7bbce858cee91ac.jpg",
+    "logo": "https://telegra.ph/file/5db1e9940a55de6c46625.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "حط هنا الايبي ايدي",
-        "value": "10729094",
+        "value": "10706562",
         "required": true
       },
       "API_HASH": {
         "description": "حط هنا الايبي هاش",
-        "value": "038b0b405782d91cbb32f60e917c1c6e",
+        "value": "0be1bcbbaf1d4d5681a0f1de0439d732",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -40,7 +40,7 @@
       },  
       "BOT_USERNAME": {
         "description": "حط هنا يوزر البوت بدون @ ينجم .",
-        "value": "VPllllllbot",
+        "value": "heb_a_bot",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -50,22 +50,22 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "حط اسم البوت انجلش كابيتال زيي - VAMBIR.",
-        "value": "VAMBIR",
+        "value": "hossam",
         "required": true
       },
       "NAME_BOT": {
         "description": "حط اسم البوت ب العربي زي فمبير .",
-        "value": "فمبير",
+        "value": "حسام",
         "required": true
       },
       "OWNER": {
         "description": "حط هنا يوزر المطور منغير علامه @ .",
-        "value": "XxlllllllllllllllllllllllllllxX",
+        "value": "H_OS_S_AM",
         "required": true
       },
       "OWNER_USER": {
         "description": "حط هنا يوزر المطور بعلامه @ .",
-        "value": "@XxlllllllllllllllllllllllllllxX",
+        "value": "@H_OS_S_AM",
         "required": true
       },
       "OWNER_ID": {
@@ -75,12 +75,12 @@
       },
       "IMG_DEV1": {
         "description": "حط لينك صورة المطور ينجم .",
-        "value": "https://telegra.ph/file/e70a5c7bbce858cee91ac.jpg",
+        "value": "https://telegra.ph/file/5db1e9940a55de6c46625.jpg",
         "required": true
       },
       "IMG_BOT1": {
         "description": "حط لينك صورة البوت ينجم .",
-        "value": "https://telegra.ph/file/b6d7f12c06eb782447c7e.png",
+        "value": "https://t.me/SOU_LOFFY_RCE/193",
         "required": true
       },
       "STRING_SESSION": {
@@ -100,17 +100,17 @@
       },
       "LOG_GROUP_ID": {
         "description": "حط ايدي جروب البوتات وارفع البوت والحساب المساعد مشرف الاول .",
-        "value": "-1001615880226",
+        "value": "-1001666007098",
         "required": true
       },
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/b6d7f12c06eb782447c7e.png",
+        "value": "https://te.legra.ph/file/46fa55b49b85c084159ce.png",
         "required": true
       },      
       "UPSTREAM_REPO": {
         "description": "سيبها زي مهيا .",
-        "value": "https://github.com/VamBIR/end",
+        "value": "https://github.com/Hossamhos/hossamx",
         "required": true
       },
       "UPSTREAM_BRANCH": {
